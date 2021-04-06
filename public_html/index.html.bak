@@ -496,6 +496,19 @@
                             <p class="designation">Head - Administration</p>
                         </div>
                       
+			<div class="col-lg-2 col-md-4 col-sm-6 col-6 text-center">
+                            <div class="member">
+                                <img src="img/joel.jpg" alt="member 1" class="img-fluid">
+                                <div class="details">
+                                    <h3><a href="#Joel" data-toggle="modal">Read Bio <i
+                                                class="fa fa-arrow-right"></i></a></h3>
+                                </div>
+                            </div>
+                            <h5 class="membername"> Joel</h5>
+                            <p class="designation">Marketing Manager</p>
+                        </div>
+
+                    </div>
 		    
                 </div>
             </div>
