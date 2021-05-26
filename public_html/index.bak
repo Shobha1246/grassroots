@@ -67,7 +67,7 @@
                     </li>
                     <li class="menu-has-children"><a href="#services">Resources</a>
                         <ul style="display: none;">
-                            <li><a href="https://thegrassrootsblog957694942.wordpress.com/">Blogs</a></li>
+                            <li><a href="https://grassrootsbpoblogs.wordpress.com/">Blogs</a></li>
                         </ul>
                     </li>
                     <li><a href="#contact">Contact</a></li>
@@ -316,7 +316,7 @@
                                 </div>
                             </div>
                             <h5 class="membername">Shirish Sahay</h5>
-                            <p class="designation">Non Executive Director</p>
+                            <p class="designation">Grassroots, CEO - UK</p>
                         </div>
                         <!-- <div class="col-lg-2 col-md-4 col-sm-6 col-6 text-center">
                             <div class="member">
@@ -559,20 +559,10 @@
                     </div>
                     <div class="col-md-3">
                         <div class="contact-email">
-                            <address><strong class="red-txt">Sales Office</strong><span
-                                     class="delivery-center">(USA)</span><br>
-			     Grassroots Solutions <br>& Services Inc,<br>3230, Fremont, CA 94539</address>
+                            <address><strong class="red-txt">Sales Office</strong><br>
+                                USA - Fremont, CA<br><br> UK - Reading</address>
                         </div>
                     </div>
-                    <div class="col-md-3">
-                        <div class="contact-email">
-                            <address><strong class="red-txt">Sales Office</strong><span
-                                     class="delivery-center">(UK)</span><br>
-			     Grassroots Solutions <br>& Services Inc,<br>7 Bell Yard, London, WC2A 2JR</address>
-                        </div>
-                    </div>
-
-
                 </div>
 
                 <div class="row contact-info2">
@@ -633,7 +623,7 @@
                 <!-- <div class="row">
                 <div class="col-md-12"><h3 style="color: #fff; font-weight: 100;">We’re Hiring! </h3></div>
                 <div class="col-lg-3 col-md-6 text-center">
-                  <p>To apply Click here or Give us a missed call for an excellent career opportunity.</p>
+                  <p>Give us a missed call for an excellent career opportunity.</p>
                    
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -655,8 +645,7 @@
                         <h3 style="color: #fff; font-weight: 100;">We’re Hiring! </h3>
                     </div>
                     <div class="col-lg-4 col-md-6 text-center">
-                        <p>To apply click <a style="color:#000;" href="https://career.grssl.com" target="_blank">here  </a>
-  or give us a missed call for an excellent career opportunity.</p>
+                        <p>Give us a missed call for an excellent career opportunity.</p>
                         <p><strong>Jobs</strong> <br> career@grassrootsbpo.com <br>Bangalore – 080 4929 2420, 080 4929
                             2468<br> Mysore – 0821-354 1009</p>
 
