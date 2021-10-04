@@ -308,6 +308,17 @@
                             <h5 class="membername">Jacob Kurian</h5>
                             <p class="designation">Director</p>
                         </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 text-center">
+                            <div class="member">
+                                <img src="img/shirish.png" alt="member 1" class="img-fluid">
+                                <div class="details">
+                                    <h3><a href="#shirish" data-toggle="modal">Read Bio <i
+                                                class="fa fa-arrow-right"></i></a></h3>
+                                </div>
+                            </div>
+                            <h5 class="membername">Shirish Sahay</h5>
+                            <p class="designation">Non Executive Director</p>
+                        </div>
                          <div class="col-lg-2 col-md-4 col-sm-6 col-6 text-center">
                             <div class="member">
                                 <img src="img/Ruth.jpg" alt="member 1" class="img-fluid">
@@ -826,6 +837,64 @@
                                     Jacob is an alumnus of REC Jamshedpur, where he got his degree in Mechanical
                                     Engineering and is also currently involved as a Project Management Consultant for
                                     MEP (Mechanical, Electrical and Plumbing) projects.</p>
+                                <div class="social-links">Connect
+                                    <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+                                    <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://www.linkedin.com/" class="linkedin"><i
+                                            class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- shirish profile -->
+    <div class="modal" id="shirish" tabindex="-1" role="dialog" aria-hidden="true" style="padding-right: 0px;">
+        <div class="modal-dialog modal-full" role="document">
+            <div class="modal-content">
+                <div class="m-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                    <h5 class="modal-title">Our Team</h5>
+                    <p class="popup-design">Over 200 years of collective experience and domain knowledge working towards
+                        your success.</p>
+                </div>
+                <div class="modal-body p-4" id="result">
+                    <div class="container">
+                        <div class="row justify-content-md-center">
+                            <div class="col-sm-12 col-lg-12">
+                                <h1 class="popup-teammember">Shirish Sahay</h1>
+                                <p class="popup-design">Non Executive Director (GRSSL)</p>
+                            </div>
+                            <div class="col-sm-6 col-lg-3">
+                                <img src="img/shirish.png" alt="member 1" class="img-fluid">
+                            </div>
+                            <div class="col-sm-6 col-lg-5">
+                                <p>Accomplished professional with over 29 yrs of demonstrated history of working as a
+                                    cross functional and cross Industry leader in the information technology and
+                                    services industry. Skilled in diverse industry sectors including Retail, Consumer
+                                    goods, Manufacturing, Travel & logistics in UK, European, MEA markets. Strong track
+                                    record in leadership with P&L ownership roles, customer relationship management and
+                                    Consulting/Transformation led sales. Broad IT expertise across, Application
+                                    Services, Professional Services, Solution Sales, Program & Project Management and
+                                    Managed Services. Experience in scaling a fast-growing sales function and
+                                    redesigning sales processes. Setup new lines of business and some key
+                                    Practices/competencies to service changing business needs of customers – moving to
+                                    Digital, Agile & improving Customer/User experience</p>
+
+                                <p>Prior joining Grassroots he was leading the Applications Services portfolio for DXC
+                                    across 9 Industry verticals and key strategic engagements. Demonstrates unique
+                                    ability to energize teams to deliver business results. Working with some of the
+                                    marque/F500 clients and built relationships which have resulted in stability and
+                                    growth.</p>
+
+                                <p>His last assignment was at DXC as Sales Head. UK, Application Services UKIIMEA, he
+                                    has spent almost 17 years in UK with HCL, Syntel at AVP & VP levels.</p>
+
                                 <div class="social-links">Connect
                                     <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
                                     <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
