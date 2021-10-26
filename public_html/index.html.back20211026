@@ -506,6 +506,13 @@
 
                 <div class="row contact-info">
                     <div class="col-md-12"></div>
+                    <div class="col-md-3">
+                        <div class="contact-email">
+                            <address><strong class="red-txt">Registered Office</strong><br>
+                                #13th (old No.246),<br>13th Cross, Wilson Garden<br>Bengaluru-560027<br>Karnataka, India
+                            </address>
+                        </div>
+                    </div>
                     <div class="col-md-2">
                         <div class="contact-address">
                             <address><strong class="red-txt">Corporate Office</strong><br>
@@ -596,7 +603,9 @@
                         </form>
                     </div>
                     <div class="col-lg-6">
-			    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7776.367467540753!2d77.64195535926531!3d12.960092009790781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15c039dbc071%3A0x9fb64cfb308a763!2sGrassroots%20BPO%20PRIVATE%20LIMITED!5e0!3m2!1sen!2sin!4v1635230126163!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42123.73972285549!2d77.60430635602812!3d12.966102091603322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa4ead759208be19d!2sGrassroots%20BPO%20Private%20Limited!5e0!3m2!1sen!2sin!4v1574300283603!5m2!1sen!2sin"
+                            width="100%" height="310" frameborder="0" style="border:0" allowfullscreen=""></iframe>
                     </div>
 
                 </div>
