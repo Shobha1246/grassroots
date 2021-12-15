@@ -1469,6 +1469,7 @@ position: absolute;
   
   filter: gray;
   -webkit-filter: grayscale(100%);
+  min-height: 190px;
 }
 
 #team .member .details {
